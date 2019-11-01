@@ -30,4 +30,4 @@ git pull
 git push
 ```
 
-### [View Demo](https://taniarascia.github.io/card/)
+### [View Demo](https://taniarascia.github.io/card/) ..
